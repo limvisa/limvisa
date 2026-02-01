@@ -1,34 +1,33 @@
-# Hi there, I'm Lim Visa 👋
+# 👋 Hi, I'm Lim Visa
 
 ### 🎓 Student | Full-Stack Developer | Cybersecurity Enthusiast
 
-I am a 17-year-old student at **StungHav High School**. I enjoy blending creativity with technical problem-solving, ranging from graphic design to building robust backend systems and exploring Linux environments.
+I’m a 17-year-old student at **StungHav High School**. I love blending creativity with technical problem-solving—from graphic design to building robust backend systems and exploring Linux environments.
 
 ---
 
 ## 🎨 Creative & Office Design
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Word](https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=Canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-%232B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 💻 Development & Programming
-
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" title="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original-wordmark.svg" width="40" title="Postman"/>
 </p>
 
 ---
@@ -49,7 +48,7 @@ I am a 17-year-old student at **StungHav High School**. I enjoy blending creativ
 
 ---
 
-## 🤝 Connect with me
+## 🤝 Connect with Me
 <p>
   <a href="mailto:lyh127961@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
