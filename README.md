@@ -1,53 +1,56 @@
-# <p align="center">✨ ʟɪᴍ ᴠɪꜱᴀ ✨</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Dangrek&weight=600&size=35&pause=1000&color=FF3D77&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Cybersecurity+Enthusiast;Linux+Explorer" alt="Typing SVG" />
-</p>
+# <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Dangrek&weight=400&size=45&pause=1000&color=31A8FF&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Lim+Visa;សួស្តី+ខ្ញុំឈ្មោះ+លីម+វីសា" alt="Typing SVG" /></p>
 
-### 🎭 Character Profile
-> **"Blending creativity with technical problem-solving."**
+### <p align="center">🎓 Student | Full-Stack Developer | Cybersecurity Enthusiast</p>
 
-| Attribute | Level |
-| :--- | :--- |
-| **Origin** | 🇰🇭 StungHav High School |
-| **Class** | Full-Stack Developer |
-| **Specialty** | Backend & Linux Environments |
-| **Age** | 17 (Junior Level) |
+I am a 17-year-old student at **StungHav High School**. I enjoy blending creativity with technical problem-solving, ranging from graphic design to building robust backend systems and exploring Linux environments.
 
 ---
 
-## 🎨 Creative Inventory
+## 🎨 Creative & Office Design
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+## 💻 Development & Programming
+
 <p align="left">
-  <img src="https://img.shields.io/badge/-Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Office_Suite-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" title="PHP"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" title="FastAPI"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" title="Postman"/>
 </p>
 
 ---
 
-## ⚔️ Tech Arsenal (Skills)
-### ⚡ Abilities
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,php,nodejs,fastapi,vscode,git,postman" />
-</p>
-
-### 🛡️ Defense & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,kali,ubuntu" />
-  <img src="https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=termux&logoColor=white" />
-</p>
+## 🛡️ Systems & Security
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
 ---
 
-## 📊 Combat Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limvisa&show_icons=true&theme=radical&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limvisa&layout=compact&theme=radical&border_radius=10" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=limvisa&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limvisa&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 📬 Join the Party
-<p align="center">
+## 🤝 Connect with me
+<p align="left">
   <a href="mailto:lyh127961@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -56,8 +59,10 @@
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=limvisa&label=EXP%20Gained&color=FF3D77&style=flat-square"/>
+  <img src="https://komarev.com/ghpvc/?username=limvisa&label=Profile%20views&color=0e75b6&style=flat"/>
   <br/>
   <b>Built with ❤️ by Lim Visa</b>
 </p>
