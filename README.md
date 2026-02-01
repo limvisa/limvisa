@@ -12,12 +12,29 @@
 
 ---
 
+<table>
+<tr>
+<td valign="top">
+
 ## 🎨 Creative & Office Design
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logoColor=white"/>
+
+</td>
+<td valign="top" style="padding-left:40px;">
+
+## 🛡️ Systems & Security
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black"/><br/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logoColor=white"/><br/>
+<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -35,14 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </div>
-
----
-
-## 🛡️ Systems & Security
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logoColor=white"/>
 
 ---
 
