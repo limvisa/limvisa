@@ -1,58 +1,50 @@
-# Hi there, I'm <a href="https://github.com/limvisa">Lim Visa</a> 👋
+# Hi there, I'm Lim Visa 👋
 
 ### 🎓 Student | Full-Stack Developer | Cybersecurity Enthusiast
-
-<p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=I+am+Lim+Visa;Full-Stack+Developer;Cybersecurity+Enthusiast" alt="Typing animation"/>
-</p>
 
 I am a 17-year-old student at **StungHav High School**. I enjoy blending creativity with technical problem-solving, ranging from graphic design to building robust backend systems and exploring Linux environments.
 
 ---
 
 ## 🎨 Creative & Office Design
-<p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-%23B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-%232B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Word](https://img.shields.io/badge/Word-%232B579A.svg?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ## 💻 Development & Programming
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
 </p>
 
 ---
 
 ## 🛡️ Systems & Security
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kali/kali-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/termux/termux-original.svg" width="50"/>
-</p>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=termux&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=limvisa&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limvisa&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=limvisa&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limvisa&layout=compact&theme=tokyonight" />
 </p>
 
 ---
