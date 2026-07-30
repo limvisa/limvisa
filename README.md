@@ -73,6 +73,4 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=limvisa&label=Profile%20views&color=0e75b6&style=flat"/>
-  <br/>
-  <b>Built with ❤️ by Lim Visa</b>
 </p>
